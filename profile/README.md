@@ -2,10 +2,12 @@
 <div align="center">
 
 <picture>
-  <img src="../brand/personalayer_logo.png" alt="Personalayer Logo" width="600">
+  <img src="../brand/perso_personalayer_logo.png" alt="Persona Managment Layer Logo" width="600">
 </picture>
 </div>
 <br>
+
+## 🙋‍♀️ What is this organization all about?
 
 **Persona Management Layer (PML)** is an open standards organization under **IbIFACE**  
 focused on bringing **structure, governance, and trust** to AI systems.
