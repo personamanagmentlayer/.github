@@ -5,7 +5,7 @@
   <img src="../brand/perso_personalayer_logo.png" alt="Persona Managment Layer Logo" width="150">
 </picture>
 <h1 align="center">
-<b>Persona Managment Layer</b><br>
+Persona Managment Layer
 </h1>
 
 </div>
