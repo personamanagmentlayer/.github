@@ -1,15 +1,13 @@
-<br>
 <div align="center">
 
 <picture>
-  <img src="../brand/perso_personalayer_logo.png" alt="Persona Managment Layer Logo" width="150">
+  <img src="../brand/perso_personalayer_logo.png" alt="Persona Managment Layer Logo" width="128">
 </picture>
 <h1 align="center">
 Persona Managment Layer
 </h1>
 
 </div>
-<br>
 
 ## 🙋‍♀️ What is this organization all about?
 
