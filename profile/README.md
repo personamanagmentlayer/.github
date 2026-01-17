@@ -2,8 +2,9 @@
 <div align="center">
 
 <picture>
-  <img src="../brand/perso_personalayer_logo.png" alt="Persona Managment Layer Logo" width="600">
+  <img src="../brand/perso_personalayer_logo.png" alt="Persona Managment Layer Logo" width="250">
 </picture>
+<b>Persona Managment Layer</b><br>
 </div>
 <br>
 
