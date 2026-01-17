@@ -1,4 +1,11 @@
-## 🙋‍♀️ What is this organization all about?
+<br>
+<div align="center">
+
+<picture>
+  <img src="../brand/personalayer_logo.png" alt="Personalayer Logo" width="600">
+</picture>
+</div>
+<br>
 
 **Persona Management Layer (PML)** is an open standards organization under **IbIFACE**  
 focused on bringing **structure, governance, and trust** to AI systems.
@@ -7,9 +14,10 @@ We design **open specifications, protocols, and reference implementations** that
 **personas, roles, and delegation** first-class architectural concepts in AI.
 
 Our projects (ARAL, PML, PCL, ADP) aim to ensure that AI systems:
-- know *who they are*,
-- understand *why they act*,
-- and remain *auditable, governable, and accountable*.
+
+- know _who they are_,
+- understand _why they act_,
+- and remain _auditable, governable, and accountable_.
 
 This organization builds foundations — not hype.
 
@@ -26,6 +34,7 @@ We welcome thoughtful contributions from the community:
 - 🧾 **Issues, critiques, and proposals**
 
 We value:
+
 > clarity over noise · quality over speed · standards over shortcuts
 
 Please read each repository’s `CONTRIBUTING.md` and `GOVERNANCE.md` before contributing.
@@ -34,10 +43,10 @@ Please read each repository’s `CONTRIBUTING.md` and `GOVERNANCE.md` before con
 
 ## 👩‍💻 Useful resources
 
-- 📘 **Specifications & Docs** → see `/SPEC` folders in each repository  
-- 🧱 **Core concepts & invariants** → `/CORE`  
-- 🔬 **Reference implementations** → `/REF`  
-- 🧭 **Governance & licensing** → `/GOVERNANCE`  
+- 📘 **Specifications & Docs** → see `/SPEC` folders in each repository
+- 🧱 **Core concepts & invariants** → `/CORE`
+- 🔬 **Reference implementations** → `/REF`
+- 🧭 **Governance & licensing** → `/GOVERNANCE`
 - ⚖️ **Trademarks** → All project names are trademarks of **IbIFACE**
 
 Each project follows a standards-grade structure inspired by RFC / ISO processes.
@@ -49,7 +58,7 @@ Each project follows a standards-grade structure inspired by RFC / ISO processes
 - ☕ Breakfast of choice: **coffee, espresso, or strong tea**
 - 🥐 Side dish: **ideas, diagrams, and invariants**
 - 🧠 Most discussions start with:  
-  *“Wait… what is the invariant here?”*
+  _“Wait… what is the invariant here?”_
 
 Yes — we take breakfast seriously.  
 And architecture even more.
@@ -69,7 +78,6 @@ you can do mighty things.
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-
 
 <!--
 
