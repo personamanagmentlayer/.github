@@ -45,29 +45,5 @@ Please read each repository’s `CONTRIBUTING.md` and `GOVERNANCE.md` before con
 
 ---
 
-## 👩‍💻 Useful resources
-
-- 📘 **Specifications & Docs** → see `/SPEC` folders in each repository
-- 🧱 **Core concepts & invariants** → `/CORE`
-- 🔬 **Reference implementations** → `/REF`
-- 🧭 **Governance & licensing** → `/GOVERNANCE`
-- ⚖️ **Trademarks** → All project names are trademarks of **IbIFACE**
-
-Each project follows a standards-grade structure inspired by RFC / ISO processes.
-
----
-
-## 🍿 Fun facts
-
-- ☕ Breakfast of choice: **coffee, espresso, or strong tea**
-- 🥐 Side dish: **ideas, diagrams, and invariants**
-- 🧠 Most discussions start with:  
-  _“Wait… what is the invariant here?”_
-
-Yes — we take breakfast seriously.  
-And architecture even more.
-
----
-
 🧙 **Remember:** with the power of Markdown (and good governance),  
 you can do mighty things.
